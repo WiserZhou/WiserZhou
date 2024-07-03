@@ -1,43 +1,46 @@
 <!--Banner-->
 
-
-
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <!--Header Name-->
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ WiserZhou
 
-*Digital Craftsman (Developer / Programmer)*
-<br /> 
+*Undergraduate student in software engineering*
+<br />
 
 <!--Start Intro-->
 
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">Welcome to my personal webpage!
+
+My name is Yufan Zhou (Chinese: 周雨凡).I am an undergraduate student at Harbin Institute of Technology. I have also done a research internship and visited students in Assistant Professor Huan Wang’s ENCODE Lab before.
+
+I am broadly interested in various software development technology and Diffusion theory about T2V / T2I /personalization generation / projected with procedure planning(Video Prediction).
+
+If you are interested in me, please contact me.</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- 💁‍♂️ I have participated in multiple competitions as a team and won awards.
+- ✍ I write technical blogs, You can visit my blog site at [CSDN](https://blog.csdn.net/imm_ortal_?spm=1010.2135.3001.5343).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Webpage](https://wiserzhou.github.io/) for more details about me.
   
   <!--End Intro-->
 
 <!--Profile Count Badge-->
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=WiserZhou&label=Profile%20views&color=yellow&style=for-the-badge&logo=star&base=0&abbreviated=true" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ---
 
 <!--Languages and Tools Section-->
 
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
