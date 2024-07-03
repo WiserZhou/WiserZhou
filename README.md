@@ -107,7 +107,7 @@ If you are interested in me, please contact me.</p>
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/WiserZhou/pythonCourse">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=WiserZhou&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=WiserZhou&repo=pythonCourse&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
