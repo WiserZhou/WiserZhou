@@ -14,7 +14,7 @@
 <!--Start Intro-->
 
 <p align="left">
-My name is Yufan Zhou (Chinese: 周雨凡).I am an undergraduate student at Harbin Institute of Technology. I have also done a research internship and visited students in Assistant Professor Huan Wang’s ENCODE Lab before.
+My name is Yufan Zhou (Chinese: 周雨凡).I am an undergraduate student at Harbin Institute of Technology. I have also done a research internship and visited students in Assistant Professor Huan Wang’s ENCODE Lab(WestLake University) before.
 
 I am broadly interested in various software development technology and Diffusion theory about T2V / T2I /personalization generation / projected with procedure planning(Video Prediction).
 
