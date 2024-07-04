@@ -64,6 +64,16 @@ If you are interested in me, please contact me.</p>
 <br />
 <br />
 
+![Language](https://img.shields.io/badge/language-C++-lightblue)
+![Language](https://img.shields.io/badge/language-C-brightgreen)
+![Language](https://img.shields.io/badge/language-Java-yellow)
+![Language](https://img.shields.io/badge/language-Python-brightgreen)
+![Language](https://img.shields.io/badge/language-Html-brightgreen)
+![Language](https://img.shields.io/badge/language-Css-brightgreen)
+![Language](https://img.shields.io/badge/language-JavaScript-brightgreen)
+![Language](https://img.shields.io/badge/language-TypeScript-brightgreen)
+![Language](https://img.shields.io/badge/language-Latex-brightgreen)
+![Language](https://img.shields.io/badge/language-Markdown-brightgreen)
 <!--Trophies Section-->
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
