@@ -79,8 +79,8 @@ If you are interested in me, please contact me.</p>
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/WiserZhou/pythonCourse">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=WiserZhou&repo=pythonCourse&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/WiserZhou/A-Survey-of-Synthetic-Images-Methods-with-Diffusion">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=WiserZhou&repo=A-Survey-of-Synthetic-Images-Methods-with-Diffusion&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
@@ -118,12 +118,12 @@ If you are interested in me, please contact me.</p>
 
 <!--Contact Section-->
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
+<!-- <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center"> -->
 
-<a href="mailto:wiserzyf@gmail.com" target="_blank">
+<!-- <a href="mailto:wiserzyf@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="wiserzyf@gmail.com" style="margin-bottom: 5px;" />
-</a>
+</a> -->
 
 <!-- <a href="https://x.com/kiran__a__n" target="_blank">
 <img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
@@ -137,8 +137,8 @@ If you are interested in me, please contact me.</p>
 <img src="./github.png" width=50 height=50 alt="WiserZhou" style="margin-bottom: 5px;" />
 </a> -->
 
-<a href="https://www.linkedin.com/in/%E9%9B%A8%E5%87%A1-%E5%91%A8-210977313/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<!-- <a href="https://www.linkedin.com/in/%E9%9B%A8%E5%87%A1-%E5%91%A8-210977313/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" /> -->
 </a>
 
 <!-- <a href="https://dev.to/dev_kiran" target="_blank">
